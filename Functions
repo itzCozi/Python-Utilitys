@@ -1,6 +1,0 @@
-# Functions
-
-# Clear Console
-CC = lambda: os.system('cls' if os.name in ('nt', 'dos') else 'clear')
-
-# 
