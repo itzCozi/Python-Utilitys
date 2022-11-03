@@ -1,0 +1,20 @@
+1. Algorithum https://github.com/xxg1413/python#algorithm
+2. Guide https://github.com/xxg1413/python#guide
+3. Structure https://github.com/xxg1413/python#structure
+4. List https://github.com/xxg1413/python#list
+5. Class https://github.com/xxg1413/python#class
+6. Web Scraping https://github.com/xxg1413/python#web-scraping
+7. Automation BXgs2AAWD7gF2WUNhva7byzkpR4QbvM3YHoCJzrGebnb
+8. Bot https://github.com/xxg1413/python#bot
+9. Spreadsheet BXgs2AAWD7gF2WUNhva7byzkpR4QbvM3YHoCJzrGebnb
+10. Finance https://github.com/xxg1413/python#finance
+11. Blockchain https://github.com/xxg1413/python#blockchain
+12. Video Sythesizer https://github.com/xxg1413/python#video-sythesizer
+13. Preformance https://github.com/xxg1413/python#performance
+14. Django https://github.com/xxg1413/python#django
+15. Flake https://github.com/xxg1413/python#flake
+16. Numpy https://github.com/xxg1413/python#numpy
+17. Nashpy https://github.com/xxg1413/python#nashpy
+18. Markov process https://github.com/xxg1413/python#markov-process
+19. Data analysis https://github.com/xxg1413/python#data-analysis
+20. Get started https://github.com/xxg1413/python#get-started
