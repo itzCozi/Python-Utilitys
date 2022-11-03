@@ -1,0 +1,9 @@
+Best books for python
+
+1. https://github.com/poise/python (Chef cookbook to install Python and related tools)
+
+2. https://github.com/yidao620c/python3-cookbook (《Python Cookbook》 3rd Edition Translation)
+
+3. https://github.com/jvns/pandas-cookbook (Recipes for using Python's pandas library)
+
+4. https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook (Code files for Python-Machine-Learning-Cookbook)
