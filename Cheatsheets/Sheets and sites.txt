@@ -1,0 +1,17 @@
+CHEAT SHEETS
+
+(HAS EVERYTHING)https://github.com/VedantKhairnar/Cheat-Sheets
+
+https://github.com/gto76/python-cheatsheet
+
+https://www.pythoncheatsheet.org/
+
+https://websitesetup.org/wp-content/uploads/2021/04/Python-cheat-sheet-April-2021.pdf
+
+(Recommend)https://programmingwithmosh.com/wp-content/uploads/2019/02/Python-Cheat-Sheet.pdf
+
+https://cheatography.com/davechild/cheat-sheets/python/
+
+https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf
+
+https://github.com/wilfredinni/python-cheatsheet
