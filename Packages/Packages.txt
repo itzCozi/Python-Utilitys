@@ -1,0 +1,7 @@
+Good Repository's  
+
+https://github.com/vinta/awesome-python
+https://github.com/rasbt/python_reference
+https://github.com/fchollet/keras-resources
+https://github.com/tirthajyoti/Data-science-best-resources
+https://github.com/oldratlee/translations
